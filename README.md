@@ -1,0 +1,1 @@
+https://fast-check.dev/docs/tutorials/quick-start/
